@@ -1,0 +1,2 @@
+#recipes.addShaped(recipeName, output, inputbox);
+recipes.addShaped(<cyclicmagic:energy_pipe>,[[<minecraft:redstone>,<thermalfoundation:material:513>,<minecraft:redstone>],[<thermalfoundation:material:513>,null,<thermalfoundation:material:513>],[<minecraft:redstone>,<thermalfoundation:material:513>,<minecraft:redstone>]]);
