@@ -1,4 +1,1 @@
-# Peak-Technology
-
-this modpack is my first .
-if have issues please upt
+这是我第一个整合包，如有问题，请反馈。
