@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	dependencies: [
+		"3bff7041"
+	],
+	tasks: [{
+		uid: "254b20f5",
+		type: "item",
+		items: [{
+			item: "openmodularturrets:intermediate_tiered"
+		}]
+	}]
+}

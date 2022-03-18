@@ -1,0 +1,39 @@
+{
+	x: 4.0d,
+	y: -3.5d,
+	dependencies: [
+		"e4497c80"
+	],
+	tasks: [{
+		uid: "0b58cc98",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 3
+			},
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "24445544",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "ef87e5ae",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "d91f2fb0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "79ede54b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

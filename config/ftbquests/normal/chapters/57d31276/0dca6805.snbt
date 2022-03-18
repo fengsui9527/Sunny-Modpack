@@ -1,0 +1,29 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "80ec2179",
+		type: "checkmark",
+		title: "起源"
+	}],
+	rewards: [{
+		uid: "cf98da25",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "33abaaca",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "adf33ac1",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "patchouli:jcbook"
+			}
+		}
+	}]
+}

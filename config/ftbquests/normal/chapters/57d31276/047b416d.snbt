@@ -1,0 +1,95 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	description: "比较奇怪，量子存储用不了，另外在领一个把",
+	dependencies: [
+		"0dca6805"
+	],
+	tasks: [{
+		uid: "226bc726",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "788234f8",
+		type: "item",
+		item: {
+			id: "cfm:item_package_signed",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "精致存储"
+				},
+				Author: "fengsui9527",
+				Package: {
+					Items: [{
+						Slot: 0b,
+						id: "refinedstorage:controller",
+						Count: 1b,
+						tag: {
+							Energy: 32000
+						},
+						Damage: 1s
+					},
+					{
+						Slot: 2b,
+						id: "refinedstorage:disk_drive",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 3b,
+						id: "refinedstorage:grid",
+						Count: 1b,
+						Damage: 1s
+					},
+					{
+						Slot: 4b,
+						id: "quantumstorage:quantumstoragedisk",
+						Count: 1b,
+						tag: {
+							IdLeast: -8789252111794956956L,
+							IdMost: 1784617132737578577L
+						},
+						Damage: 0s
+					},
+					{
+						Slot: 5b,
+						id: "refinedstorage:interface",
+						Count: 1b,
+						Damage: 0s
+					}]
+				}
+			}
+		}
+	},
+	{
+		uid: "2a668032",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "a50b8081",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "5fefad73",
+		type: "item",
+		item: "quantumstorage:quantumstoragedisk"
+	}]
+}

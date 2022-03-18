@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	dependencies: [
+		"f8ae59d9"
+	],
+	tasks: [{
+		uid: "ea4160ff",
+		type: "checkmark",
+		title: "家",
+		icon: "openmodularturrets:ammo_meta 1 4"
+	}]
+}

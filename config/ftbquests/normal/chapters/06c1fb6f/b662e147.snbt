@@ -1,0 +1,18 @@
+{
+	title: "你不行了，对么，使用经验来换取降低难度吧。",
+	x: -3.5d,
+	y: 0.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "d37559f2",
+		type: "xp",
+		value: 15L,
+		points: false
+	}],
+	rewards: [{
+		uid: "af8f5fb0",
+		type: "command",
+		title: "降低难度",
+		command: "/scalinghealth difficulty sub 5 @a"
+	}]
+}

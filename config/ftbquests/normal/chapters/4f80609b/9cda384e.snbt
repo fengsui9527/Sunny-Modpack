@@ -1,0 +1,35 @@
+{
+	x: 2.5d,
+	y: 1.0d,
+	dependencies: [
+		"233c7f8a"
+	],
+	tasks: [{
+		uid: "77b33e76",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bba9cf5b",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "38abaa7a",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "e76ea4fc",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "f77147be",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

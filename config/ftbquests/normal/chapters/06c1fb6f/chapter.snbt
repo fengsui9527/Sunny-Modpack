@@ -1,0 +1,6 @@
+{
+	title: "难度调整",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

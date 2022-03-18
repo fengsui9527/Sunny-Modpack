@@ -1,0 +1,6 @@
+{
+	title: "任务选择",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

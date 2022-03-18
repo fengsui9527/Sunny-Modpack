@@ -1,0 +1,7 @@
+{
+	title: "热力",
+	icon: "thermalfoundation:material 1 294",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

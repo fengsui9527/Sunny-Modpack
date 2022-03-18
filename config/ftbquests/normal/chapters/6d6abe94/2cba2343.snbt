@@ -1,0 +1,30 @@
+{
+	x: -4.0d,
+	y: -1.5d,
+	dependencies: [
+		"3b2e4580"
+	],
+	tasks: [{
+		uid: "8fffb168",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 514"
+		}]
+	}],
+	rewards: [{
+		uid: "c792c259",
+		type: "item",
+		item: "thermaldynamics:duct_0 1 5",
+		count: 64
+	},
+	{
+		uid: "46e38fa5",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "609016ef",
+		type: "choice",
+		table: 2
+	}]
+}

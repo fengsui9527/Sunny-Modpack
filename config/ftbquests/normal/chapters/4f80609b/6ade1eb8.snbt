@@ -1,0 +1,34 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	dependencies: [
+		"0299198c"
+	],
+	tasks: [{
+		uid: "026c4188",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:reactor 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "beb995fb",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "f82ba25d",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "715b7301",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "2c49fef7",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,96 @@
+{
+	title: "五倍",
+	x: -3.5d,
+	y: -5.0d,
+	dependencies: [
+		"be531fa3"
+	],
+	tasks: [{
+		uid: "9ec0be4c",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "493ba708",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5497389b",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "46659874",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8b80a34b",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 4"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "24315b8f",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 6"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "57741fdf",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 7"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eef8152f",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {}
+			},
+			Damage: 8s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6981078d",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "d1f82891",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "51a98c45",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "db8593b7",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

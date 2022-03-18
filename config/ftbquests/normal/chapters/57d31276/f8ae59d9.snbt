@@ -1,0 +1,30 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	text: [
+		"除了龙之研究，ic2，等价，无尽，这四个，其他均可选择"
+	],
+	dependencies: [
+		"cdb35602"
+	],
+	tasks: [{
+		uid: "00cd1e56",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "8bbad8c9",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "b98e294c",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "3e4726de",
+		type: "command",
+		title: "难度增加！",
+		command: "/scalinghealth difficulty add 125 @a"
+	}]
+}
