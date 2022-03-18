@@ -1,0 +1,11 @@
+{
+    "name": "须知3:钻石or末影珍珠",
+    "icon": "minecraft:diamond",
+    "category": "one",
+    "pages": [
+		{
+            "type": "text",
+            "text": "因为作者直播的时候总找不到末影人和钻石，所以打僵尸掉落钻石，打小白掉落末影珍珠，这很合理对吧。"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name":"蒸汽魔法",
+    "icon":"mekanism:controlcircuit:3",
+    "category":"mapping",
+    "pages":[
+        {
+            "type":"text",
+            "text":"可以通过极少的魔力来兑换蒸汽，目前为500MANA+500MB水=1000MB蒸汽，加工时间仅需1TICK。"
+        }
+    ]
+}

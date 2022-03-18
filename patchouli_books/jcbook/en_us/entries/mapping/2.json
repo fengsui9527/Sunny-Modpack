@@ -1,0 +1,11 @@
+{
+    "name":"超级奇点压缩机",
+    "icon":"additions:feng_ding-miyin",
+    "category":"mapping",
+    "pages":[
+        {
+            "type":"text",
+            "text":"本物品可以用来压缩奇点，可以使用本物品来制作奇点自动化，因本整合包重度魔改，所以制作无尽贪婪物品需要大量奇点。"
+        }
+    ]
+}

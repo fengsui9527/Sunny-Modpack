@@ -1,0 +1,11 @@
+{
+    "name": "须知6:最后",
+    "icon": "minecraft:writable_book",
+    "category": "one",
+    "pages": [
+        {
+            "type": "text",
+            "text": "丢掉这本书，开启你的巅峰之旅。"
+        }
+    ]
+    }

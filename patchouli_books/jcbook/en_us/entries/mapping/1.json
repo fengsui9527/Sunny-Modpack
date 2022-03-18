@@ -1,0 +1,18 @@
+{
+    "name": "MANA自动化",
+    "icon": "botania:manatablet",
+    "category": "mapping",
+    "pages":[
+
+        {
+            "type":"text",
+            "text":"这是一个简单的自动化结构，可以通过使用大量魔力来全自动获取植物魔法的物品。"
+        },
+        {
+            "type":"text",
+            "text":"你可以使用本多方块结构来制作所有泰拉凝聚板、符文祭坛物品。"
+        }
+
+    ]
+}
+    
