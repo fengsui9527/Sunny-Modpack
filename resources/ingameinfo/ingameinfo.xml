@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topleft">
+        <line>
+            <str>第{day}天, {mctime} (</str>
+            <if>
+                <var>daytime</var>
+                <str>$e昼</str>
+                <str>$8夜</str>
+            </if>
+            <str>$f)</str>
+        </line>
+        <line>
+            <str>坐标: ({x}, {y}, {z})</str>
+        </line>
+        <line>
+            <str>生物群系: $e{biome}$f</str>
+            <if>
+                <var>slimes</var>
+                <str> ($aSlime$f)</str>
+                <str></str>
+            </if>
+        </line>
+        <line>
+            <str>FPS: </str>
+            <operation>
+                <str>gt</str>
+                <var>fps</var>
+                <num>59</num>
+                <num>45</num>
+                <num>30</num>
+                <num>15</num>
+                <num>0</num>
+                <str>$a</str>
+                <str>$e</str>
+                <str>$6</str>
+                <str>$c</str>
+                <str>$4</str>
+                <str/>
+            </operation>
+            <var>fps</var>
+        </line>
+        <line>
+            <str>有多少实体: $e{entitiesrendered}$f / $e{entitiestotal}$f</str>
+        </line>
+        <line>
+            <str>距离</str>
+            <if>
+                <var>raining</var>
+                <str>放晴还有:</str>
+                <str>下雨还有:</str>
+            </if>
+            <str> $e{nextweatherchange}$f</str>
+        </line>
+    </lines>
+    <lines at="bottomright">
+        <line>
+            <str>巅峰科技</str>
+        </line>
+        <line>
+            <str>Peak Technology</str>
+        </line>
+    </lines>
+</config>
