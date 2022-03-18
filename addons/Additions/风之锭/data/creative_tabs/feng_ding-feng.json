@@ -1,0 +1,20 @@
+{
+  "name": "风",
+  "tab_item": {
+    "item": "projecte:item.pe_wind_projectile"
+  },
+  "items": [
+    {
+      "item": "additions:feng_ding-miyin"
+    },
+    {
+      "item": "additions:feng_ding-windkuai"
+    },
+    {
+      "item": "additions:feng_ding-feng_ding"
+    },
+    {
+      "item": "additions:feng_ding-wind"
+    }
+  ]
+}

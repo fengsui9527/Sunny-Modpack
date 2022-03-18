@@ -1,0 +1,22 @@
+{
+  "recipe": {
+    "type": "forge:ore_shapeless",
+    "result": {
+      "item": "additions:feng_ding-feng_ding",
+      "count": 9
+    },
+    "ingredients": [
+      {
+        "ore_name": "wind",
+        "stack_list": [
+          {
+            "item": "additions:feng_ding-windkuai",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    ]
+  },
+  "type": "additions:crafting_shapeless"
+}

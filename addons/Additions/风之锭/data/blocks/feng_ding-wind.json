@@ -1,0 +1,17 @@
+{
+  "item_block": {
+    "name": "风之矿",
+    "type": "additions:block_simple"
+  },
+  "name": "风之矿",
+  "material": "minecraft:stone",
+  "hardness": 20.0,
+  "resistance": 3000.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "is_beacon_base": true,
+  "can_pistons_push": false,
+  "xp_dropped_min": 20,
+  "xp_dropped_max": 50,
+  "type": "additions:simple"
+}
