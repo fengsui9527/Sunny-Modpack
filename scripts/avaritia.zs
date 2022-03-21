@@ -1,4 +1,5 @@
 #modloaded bathappymod
+#modloaded avaritia
 
 mods.avaritia.ExtremeCrafting.addShaped("es",<eternalsingularity:eternal_singularity>,[[<avaritia:singularity>,<avaritia:singularity:1>,<avaritia:singularity:2>,<avaritia:singularity:3>,<avaritia:singularity:4>,<avaritia:singularity:10>,<avaritia:singularity:11>,<contenttweaker:lantou>,<contenttweaker:lantou>],[<contenttweaker:lantou>,<contenttweaker:lantou>,<contenttweaker:lantou>,<contenttweaker:lantou>,<contenttweaker:lantou>,<contenttweaker:meitou>,null,null,null],[null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null]]);
 
