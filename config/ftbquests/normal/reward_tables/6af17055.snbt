@@ -1,0 +1,76 @@
+{
+	title: "弹药",
+	loot_size: 64,
+	rewards: [{
+		item: "techguns:itemshared 1 23"
+	},
+	{
+		item: "techguns:itemshared 1 21"
+	},
+	{
+		item: "techguns:itemshared 1 19"
+	},
+	{
+		item: "techguns:itemshared 1 17"
+	},
+	{
+		item: "techguns:itemshared 1 15"
+	},
+	{
+		item: "techguns:itemshared 1 13"
+	},
+	{
+		item: "techguns:itemshared 1 11"
+	},
+	{
+		item: "techguns:itemshared 1 9"
+	},
+	{
+		item: "techguns:itemshared 1 7"
+	},
+	{
+		item: "techguns:itemshared 1 127"
+	},
+	{
+		item: "techguns:itemshared 1 76"
+	},
+	{
+		item: "techguns:itemshared 1 5"
+	},
+	{
+		item: "techguns:itemshared 1 31"
+	},
+	{
+		item: "techguns:itemshared 1 29"
+	},
+	{
+		item: "techguns:itemshared 1 27"
+	},
+	{
+		item: "techguns:itemshared 1 25"
+	},
+	{
+		item: "techguns:itemshared 1 143"
+	},
+	{
+		item: "techguns:itemshared 1 145"
+	},
+	{
+		item: "techguns:itemshared 1 113"
+	},
+	{
+		item: "techguns:itemshared 1 117"
+	},
+	{
+		item: "techguns:itemshared 1 116"
+	},
+	{
+		item: "techguns:itemshared 1 114"
+	},
+	{
+		item: "techguns:itemshared 1 107"
+	},
+	{
+		item: "techguns:itemshared 1 106"
+	}]
+}

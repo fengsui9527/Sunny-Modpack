@@ -1,0 +1,23 @@
+{
+	x: 7.0d,
+	y: -2.0d,
+	dependencies: [
+		"e2f9c56b"
+	],
+	tasks: [{
+		uid: "07d78f38",
+		type: "checkmark",
+		title: "继续撒花花"
+	}],
+	rewards: [{
+		uid: "9adfde18",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "2f45763b",
+		type: "command",
+		title: "难度增加",
+		command: "/scalinghealth difficulty add 125 @a"
+	}]
+}

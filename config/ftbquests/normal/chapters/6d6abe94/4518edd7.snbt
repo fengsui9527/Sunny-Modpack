@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	text: [
+		"原始魔力桶倒出来，银块接触会变成孕魔秘银块"
+	],
+	dependencies: [
+		"aa8f1ba1"
+	],
+	tasks: [{
+		uid: "c0d3073a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:storage 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "eb990e00",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "be3d2d5f",
+		type: "choice",
+		table: 2
+	}]
+}

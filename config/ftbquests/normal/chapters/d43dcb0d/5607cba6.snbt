@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: -2.5d,
+	dependencies: [
+		"be64d7b8"
+	],
+	tasks: [{
+		uid: "92088f2f",
+		type: "item",
+		items: [{
+			item: "cfm:item_super_soap_water"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

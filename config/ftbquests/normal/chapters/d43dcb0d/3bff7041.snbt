@@ -1,0 +1,9 @@
+{
+	x: -5.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "4aeddbd3",
+		type: "checkmark",
+		title: "守护家园"
+	}]
+}

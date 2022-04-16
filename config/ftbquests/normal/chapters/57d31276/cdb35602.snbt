@@ -1,0 +1,26 @@
+{
+	x: 2.5d,
+	y: -0.5d,
+	text: [
+		"年轻人，你很有实力，恭喜你，正式进入工业时代！"
+	],
+	dependencies: [
+		"9bdd5ccf"
+	],
+	tasks: [{
+		uid: "1493ccb6",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d8c05f15",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "6baea192",
+		type: "random",
+		table: 0
+	}]
+}

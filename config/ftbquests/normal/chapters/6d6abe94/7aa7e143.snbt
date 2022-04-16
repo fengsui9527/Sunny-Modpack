@@ -1,0 +1,39 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	dependencies: [
+		"e8cf1c99"
+	],
+	tasks: [{
+		uid: "5604c816",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}],
+	rewards: [{
+		uid: "b84e9b36",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "13061285",
+		type: "choice",
+		table: 2
+	}]
+}

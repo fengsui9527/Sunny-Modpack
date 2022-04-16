@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -2.5d,
+	dependencies: [
+		"3bff7041"
+	],
+	tasks: [{
+		uid: "242e2833",
+		type: "item",
+		items: [{
+			item: "cfm:washing_machine"
+		}]
+	}]
+}

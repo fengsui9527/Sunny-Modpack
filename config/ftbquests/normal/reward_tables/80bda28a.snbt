@@ -1,0 +1,25 @@
+{
+	title: "金钱",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "_"
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		ftb_money: 0L,
+		random_bonus: 500,
+		type: "ftbmoney:money"
+	}],
+	loot_crate: {
+		string_id: "_",
+		color: 3978097,
+		glow: true,
+		drops: {
+			boss: 15000,
+			passive: 6000,
+			monster: 12000
+		}
+	}
+}

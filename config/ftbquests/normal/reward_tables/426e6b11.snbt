@@ -1,0 +1,366 @@
+{
+	title: "枪械",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "techguns:scatterbeamrifle",
+			tag: {
+				ammo: 40s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:sonicshotgun",
+			tag: {
+				ammo: 8s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:pdw",
+			tag: {
+				ammo: 40s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:pulserifle",
+			tag: {
+				ammo: 12s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:mibgun",
+			tag: {
+				ammo: 20s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:alienblaster",
+			tag: {
+				ammo: 10s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:powerhammer",
+			tag: {
+				ammo: 300s,
+				ammovariant: "default",
+				miningHead: 0,
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:chainsaw",
+			tag: {
+				ammo: 300s,
+				ammovariant: "default",
+				miningHead: 0,
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:nucleardeathray",
+			tag: {
+				ammo: 40s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:m4_infiltrator",
+			tag: {
+				ammo: 30s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:m4",
+			tag: {
+				ammo: 30s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:boltaction",
+			tag: {
+				ammo: 6s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:ak47",
+			tag: {
+				ammo: 30s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:thompson",
+			tag: {
+				ammo: 20s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:goldenrevolver",
+			tag: {
+				ammo: 6s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:revolver",
+			tag: {
+				ammo: 6s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:sawedoff",
+			tag: {
+				ammo: 2s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:handcannon",
+			tag: {
+				ammo: 1s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:netherblaster",
+			tag: {
+				ammo: 10s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:aug",
+			tag: {
+				ammo: 30s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:grenadelauncher",
+			tag: {
+				ammo: 6s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:grimreaper",
+			tag: {
+				ammo: 4s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:rocketlauncher",
+			tag: {
+				ammo: 1s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:flamethrower",
+			tag: {
+				ammo: 100s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:mac10",
+			tag: {
+				ammo: 32s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:combatshotgun",
+			tag: {
+				ammo: 8s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:pistol",
+			tag: {
+				ammo: 18s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:blasterrifle",
+			tag: {
+				ammo: 50s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:lasergun",
+			tag: {
+				ammo: 45s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:scar",
+			tag: {
+				ammo: 20s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:vector",
+			tag: {
+				ammo: 25s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:as50",
+			tag: {
+				ammo: 10s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:minigun",
+			tag: {
+				ammo: 200s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:lmg",
+			tag: {
+				ammo: 100s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:teslagun",
+			tag: {
+				ammo: 25s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "techguns:biogun",
+			tag: {
+				ammo: 30s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	}]
+}

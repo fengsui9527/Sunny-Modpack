@@ -1,0 +1,13 @@
+{
+	icon: "thermalfoundation:material 1 1028",
+	x: -2.5d,
+	y: 0.5d,
+	dependencies: [
+		"f8ae59d9"
+	],
+	tasks: [{
+		uid: "4f3c6661",
+		type: "checkmark",
+		title: "热力"
+	}]
+}

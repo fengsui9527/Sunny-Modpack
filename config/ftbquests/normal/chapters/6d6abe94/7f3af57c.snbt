@@ -1,0 +1,78 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"ff0a29a7"
+	],
+	tasks: [{
+		uid: "625f6062",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 8s
+		}]
+	}],
+	rewards: [{
+		uid: "33ddcd87",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thermalfoundation:blizz"
+				}
+			}
+		},
+		count: 64
+	},
+	{
+		uid: "4383cc27",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thermalfoundation:basalz"
+				}
+			}
+		},
+		count: 64
+	},
+	{
+		uid: "11e2e757",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thermalfoundation:blitz"
+				}
+			}
+		},
+		count: 64
+	},
+	{
+		uid: "afb1bae2",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "fb27908c",
+		type: "choice",
+		table: 2
+	}]
+}

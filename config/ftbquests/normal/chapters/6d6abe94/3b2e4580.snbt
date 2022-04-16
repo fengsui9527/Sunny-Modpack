@@ -1,0 +1,32 @@
+{
+	x: -6.0d,
+	y: -1.5d,
+	dependencies: [
+		"ecaf055d"
+	],
+	tasks: [{
+		uid: "e26c175a",
+		type: "checkmark",
+		title: "最基础发电"
+	}],
+	rewards: [{
+		uid: "f4321dd9",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:machine4"
+			}
+		}
+	},
+	{
+		uid: "908137f5",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "9a93169e",
+		type: "choice",
+		table: 2
+	}]
+}

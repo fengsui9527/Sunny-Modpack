@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	dependencies: [
+		"f8ae59d9"
+	],
+	tasks: [{
+		uid: "75c82cb5",
+		type: "checkmark",
+		title: "Mek",
+		icon: "mekanism:atomicalloy"
+	}]
+}

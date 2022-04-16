@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	dependencies: [
+		"e2da0c3b"
+	],
+	tasks: [{
+		uid: "87c7aec1",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f5a8f46f",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "24ed7594",
+		type: "random",
+		table: 0
+	}]
+}

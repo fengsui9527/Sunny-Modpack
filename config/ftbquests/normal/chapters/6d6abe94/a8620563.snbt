@@ -1,0 +1,28 @@
+{
+	x: -2.0d,
+	y: 4.0d,
+	dependencies: [
+		"4518edd7"
+	],
+	tasks: [{
+		uid: "456dcbf0",
+		type: "checkmark",
+		title: "撒花撒花"
+	}],
+	rewards: [{
+		uid: "8f080ae7",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "a9d3ca09",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "c39ef7c3",
+		type: "command",
+		title: "难度增加！",
+		command: "/scalinghealth difficulty add 125 @a"
+	}]
+}

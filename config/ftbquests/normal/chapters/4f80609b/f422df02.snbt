@@ -1,0 +1,34 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	dependencies: [
+		"fe378749"
+	],
+	tasks: [{
+		uid: "3b5e0de8",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "34a0c0f4",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "959758b1",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "09768fb4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "b664bc0d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}
