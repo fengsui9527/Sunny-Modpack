@@ -1,0 +1,1 @@
+recipes.addShapeless(<refinedstorage:quartz_enriched_iron>, [<contenttweaker:fzd>,<contenttweaker:fzd>,<minecraft:quartz>]);

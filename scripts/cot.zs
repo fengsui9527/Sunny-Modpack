@@ -9,6 +9,10 @@ var wind as Item = VanillaFactory.createItem("fzd");
 wind.creativeTab = <creativetab:misc>;
 wind.register();
 
+var qidian as Item = VanillaFactory.createItem("qidian");
+qidian.creativeTab = <creativetab:misc>;
+qidian.register();
+
 var fzku as Block = VanillaFactory.createBlock("fzku",<blockmaterial:ice>);
 fzku.register();
 
